@@ -1,4 +1,4 @@
 # ECE300
 Communication Networks
 
-MATLAB Code used in probelm sets for the class.
+MATLAB code used in problem sets for the class.
